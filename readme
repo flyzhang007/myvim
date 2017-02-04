@@ -1,1 +1,14 @@
 my vim config
+most golang env
+gotag
+godef
+etc
+
+use c+k to show taglist
+use c+n to show filelist
+use c+j to show godoc
+
+how to do:
+
+mv vimrc to .vimrc
+BundleInstall
