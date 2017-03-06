@@ -1,12 +1,21 @@
-my vim config
-most golang env
-gotag
-godef
-etc
+this is my vim config
+    vim_go is for golang
+    vim_c++ is for c++
 
-use c+k to show taglist
-use c+n to show filelist
-use c+j to show godoc
+
+c++:
+    in c++ use c-j to get next buffer;use c-p to get prev buffer
+
+
+golang:
+    most golang env
+    gotag
+    godef
+    etc
+
+    use c+k to show taglist
+    use c+n to show filelist
+    use c+j to show godoc
 
 how to do:
 
